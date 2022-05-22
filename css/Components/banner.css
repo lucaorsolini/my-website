@@ -1,10 +1,11 @@
 .banner {
-	background-image: url(../../images/2.jpeg);
-	color: white;
-	padding: 150px 0px;
-	background-size: cover;
-	background-position: center;
-}
+  background-image: url(../../images/tapis0.jpeg);
+  color: #FFD9C0;
+  background-size: cover;
+  background-position: center;
+  padding-bottom: 150px;
+  margin: 5px;
+ }
 
 .banner h1 {
 	font-size: 50px;
